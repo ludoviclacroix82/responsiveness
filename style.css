@@ -2,6 +2,7 @@ div {
     /*display: none;*/
     border: 1px solid #000;
     padding: 10px;
+    background-color: #fff;
 }
 section{
     padding: 20px 0;
@@ -11,9 +12,9 @@ section{
 
 @media screen and (max-width: 479px) {
     
-    /*body{
+    body{
         background-color: red;
-    }*/
+    }
     /*#small{
         display: block;
         font-size: 10px;
@@ -25,9 +26,9 @@ section{
     }
 }
 @media only screen and (min-width: 480px) and (max-width: 1023px){
-    /*body{
+    body{
         background-color: green;
-    }*/
+    }
     /*#medium{
         display: block;
         font-size: 18px;
@@ -44,9 +45,9 @@ section{
 }
 @media screen and (min-width: 1040px) {
     
-   /* body{
+    body{
         background-color: blue;
-    }*/
+    }
     /*#large{
         display: block;
         font-size: 26px;
